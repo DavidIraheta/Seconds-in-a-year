@@ -4,3 +4,6 @@
 # Seconds in a day = minutes 60 * 60 seconds a minute = 3600
 # 3600 seconds * 24 hours in a day 
 print(3600*24)
+86400
+print(86400*365)
+31536000
